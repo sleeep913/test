@@ -1,2 +1,2 @@
 # test
-this repository is created to do some exple of github
+该仓库用于学习GitHub相关操作.
