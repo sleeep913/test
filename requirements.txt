@@ -1,3 +1,0 @@
-numpy
-matplotlib 
-说明：使用cursor编写了一个最小二乘法拟合的代码
